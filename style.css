@@ -1,4 +1,14 @@
-img {
-    height: auto;
-    width: 500px;
+body {
+    background-color: darkgray;
+    text-align: center;
+}
+
+.main-content .heading {
+    color: white;
+    font-size: 30px;
+}
+
+a {
+    font-size: 20px;
+    background-color: aqua;
 }
